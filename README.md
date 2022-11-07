@@ -6,7 +6,8 @@
 <br> <br>
 ![](https://komarev.com/ghpvc/?username=oproprioleonardo&style=for-the-badge)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oproprioleonardo&show_icons=true) <br> <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oproprioleonardo&show_icons=true&include_all_commits=true) <br> <br>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=oproprioleonardo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=oproprioleonardo)](https://github.com/anuraghazra/github-readme-stats)
+
 
