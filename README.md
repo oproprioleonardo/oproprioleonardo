@@ -4,6 +4,7 @@
 - 💞️ Here you will find cool projects and also some crazy ones
 - 📫 You can reach me by my email address: silva.leonardo2@aluno.ifsp.edu.br
 <br> <br>
+![](https://komarev.com/ghpvc/?username=oproprioleonardo)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oproprioleonardo&show_icons=true) <br> <br>
 
