@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oproprioleonardo
 - 👀 I’m interested in games projects
-- 🌱 I’m currently learning English and C#
+- 🌱 I’m currently learning English and C++
 - 💞️ Here you will find cool projects and also some crazy ones
 - 📫 You can reach me by my email address: silva.leonardo2@aluno.ifsp.edu.br
 <br> <br>
