@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oproprioleonardo
+- 👋 Hi, I’m @oproprioleonardo, but you can call me Leo
 - 👀 I’m interested in games projects
 - 🌱 I’m currently learning English and C++
 - 🏫 I'm currently studying at IFSP - Campus Cubatão
