@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning English and C++
 - 🏫 I'm currently studying at IFSP - Campus Cubatão
 - 💞️ Here you will find cool projects and also some crazy ones
-- 📫 You can reach me by my email address: silva.leonardo2@aluno.ifsp.edu.br 
+- 📫 You can reach me by my email address silva.leonardo2@aluno.ifsp.edu.br; or Discord: Leonardo da Silva#2242
 <br> <br>
 <img src="https://komarev.com/ghpvc/?username=oproprioleonardo&style=for-the-badge&color=lightgrey&label=Views" alt="Views">
 
