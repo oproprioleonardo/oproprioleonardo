@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @oproprioleonardo, but you can call me Leo
 - 👀 I’m interested in games projects
-- 🌱 I’m currently learning English and C++
 - 🏫 I'm currently studying at IFSP - Campus Cubatão
 - 💞️ Here you will find cool projects and also some crazy ones
 - 📫 You can reach me by my email address silva.leonardo2@aluno.ifsp.edu.br; or Discord: leonardodasilva#2242
