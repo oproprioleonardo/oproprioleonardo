@@ -6,7 +6,7 @@
 <br> <br>
 <img src="https://komarev.com/ghpvc/?username=oproprioleonardo&style=for-the-badge&color=lightgrey&label=Views" alt="Views">
 
-| <a href="https://github.com/oproprioleonardo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oproprioleonardo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leonardo's github stats" /></a> | <a href="https://github.com/oproprioleonardo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oproprioleonardo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/oproprioleonardo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oproprioleonardo&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Leonardo's github stats" /></a> | <a href="https://github.com/oproprioleonardo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oproprioleonardo&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
@@ -24,4 +24,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+
+![Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oproprioleonardo&theme=tokyonight)
 
