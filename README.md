@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @oproprioleonardo, but you can call me Leo
+- 👋 Hi, I’m @oproprioleonardo, but you can call me Leo <img align="center" src="https://komarev.com/ghpvc/?username=oproprioleonardo&style=for-the-badge&color=lightgrey&label=Views" alt="Views"/> </a>
 - 🏫 I'm currently studying DDD and clean architecture 
-- 💞️ Here you will find cool projects and also some crazy ones
+- 💞️ Here you will find cool projects and also some crazy ones 
 - 📫 You can reach me by my email address silva.leonardo2@aluno.ifsp.edu.br; or Discord: leonardodasilva#2242
 <br> <br>
-<img src="https://komarev.com/ghpvc/?username=oproprioleonardo&style=for-the-badge&color=lightgrey&label=Views" alt="Views">
 
-| <a href="https://github.com/oproprioleonardo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oproprioleonardo&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Leonardo's github stats" /></a> | <a href="https://github.com/oproprioleonardo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oproprioleonardo&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+
+| <a href="https://github.com/oproprioleonardo"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oproprioleonardo&theme=tokyonight" alt="Leonardo's github stats" /></a> | <a href="https://github.com/oproprioleonardo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oproprioleonardo&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
@@ -27,7 +27,3 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-
-![Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oproprioleonardo&theme=tokyonight)
-
