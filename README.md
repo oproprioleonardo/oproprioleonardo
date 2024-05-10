@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oproprioleonardo, but you can call me Leo <img align="center" src="https://komarev.com/ghpvc/?username=oproprioleonardo&style=for-the-badge&color=lightgrey&label=Views" alt="Views"/> </a>
 - 🏫 I'm currently studying DDD and clean architecture 
 - 💞️ Here you will find cool projects and also some crazy ones 
-- 📫 You can reach me by my email address silva.leonardo2@aluno.ifsp.edu.br; or Discord: leonardodasilva#2242
+- 📫 You can reach me by my email address silva.leonardo2@aluno.ifsp.edu.br; or Discord: leonardodasilva
 <br> <br>
 
 
