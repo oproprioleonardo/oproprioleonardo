@@ -5,7 +5,7 @@
 Hi there! 👋 My name is **Leonardo**, a passionate 18-year-old tech enthusiast currently pursuing my final year of an integrated high school and technical program in **Informatics** at **IFSP Cubatão**. Here's a bit about me:
 
 - 🎓 I'm studying to become an expert in technology while balancing my academic life with projects that make a difference.
-- 💼 I work on **intelligent assistant projects** at [DAI](https://www.dai.tec.br/), where I get to innovate and solve real-world challenges.
+- 💼 I had the opportunity to work on **intelligent assistant projects** at [DAI](https://www.dai.tec.br/), where I contributed to innovative solutions.
 - 🎉 As the **Director of Informatics** for my school's student council, I created a complete digital ticket management system for academic events—from scratch!
 - ✝️ I’m Catholic, and I find inspiration in faith and community.
 - 🎮 My favorite game is **Red Dead Redemption II** (I’ll never get over you, Arthur Morgan!).
@@ -21,10 +21,11 @@ Feel free to connect with me via [Instagram](https://www.instagram.com/_oleonard
 ### <p align="center">Programming Languages:</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
 ### <p align="center">Frameworks & Tools:</p>
@@ -35,6 +36,8 @@ Feel free to connect with me via [Instagram](https://www.instagram.com/_oleonard
 <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-%235C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 ### <p align="center">Databases:</p>
@@ -42,6 +45,7 @@ Feel free to connect with me via [Instagram](https://www.instagram.com/_oleonard
 <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%2343A047?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ### <p align="center">Messaging:</p>
