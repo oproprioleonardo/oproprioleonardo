@@ -68,7 +68,7 @@ Feel free to connect with me via [Instagram](https://www.instagram.com/_oleonard
 ---
 
 ## Stats
-| <a href="https://github.com/oproprioleonardo"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oproprioleonardo&theme=tokyonight" alt="Leonardo's github stats" /></a> | <a href="https://github.com/oproprioleonardo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oproprioleonardo&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/oleonardosilva"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleonardosilva&theme=tokyonight" alt="Leonardo's github stats" /></a> | <a href="https://github.com/oleonardosilva"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleonardosilva&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
